@@ -20,13 +20,13 @@
 ![profile views](https://komarev.com/ghpvc/?username=Drathod-24\&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/Drathod-24?label=Follow\&style=social)](https://github.com/Drathod-24)
 
-I’m **Meet Drathod**, an **international student based in Paris**, originally from **India**, actively seeking **software engineering / data / AI internships**. I enjoy transforming ideas into clean, efficient, and impactful solutions using modern technologies.
+I’m **Dhruvilsinh RATHOD**, an **International student based in Paris**, originally from **India**, actively seeking **software engineering / data / AI internships**. I enjoy transforming ideas into clean, efficient, and impactful solutions using modern technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Studying **Computer Science / Data & AI** in Paris
+* 🎓 Student at Aivancity School for Technology, Business & Society in Paris
 * 🌍 International mindset with experience adapting across cultures
 * 💡 Strong interest in **Software Engineering, Data Analytics, and Machine Learning**
 * 🚀 Love working on **real-world problems**, end-to-end products, and data-driven insights
@@ -34,8 +34,8 @@ I’m **Meet Drathod**, an **international student based in Paris**, originally 
 
 📫 **Let’s connect:**
 
-* 📧 Email: **[your.email@example.com](mailto:your.email@example.com)**
-* 💼 LinkedIn: **[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/your-linkedin/)**
+* 📧 Email: **[dhruvilsinhrathod24@gmail.com](mailto:your.dhruvilsinhrathod24@gmail.com)**
+* 💼 LinkedIn: **[https://www.linkedin.com/in/dhruvilsinh-rathod/](https://www.linkedin.com/in/dhruvilsinh-rathod/)**
 
 ---
 
@@ -130,18 +130,6 @@ A curated collection of **computer science & data coursework**.
 ### 🔧 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-
-### 🖥️ Frameworks & Platforms
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 
 ### 📊 Data & ML Libraries
 
@@ -154,8 +142,6 @@ A curated collection of **computer science & data coursework**.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
