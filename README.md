@@ -163,26 +163,30 @@ A curated collection of **computer science & data coursework**.
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Drathod-24&show_icons=true&theme=dark&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Drathod-24&theme=dark&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drathod-24&layout=compact&theme=dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Drathod-24&show_icons=true&theme=dark&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Drathod-24&theme=dark" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drathod-24&layout=compact&theme=dark" width="40%" />
+
+</div>
 
 ---
 
 ## 🏆 Achievements & Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Drathod-24&theme=onedark&no-frame=true&margin-w=10" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drathod-24&theme=react-dark" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Drathod-24&theme=onedark&no-frame=true&margin-w=10" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Drathod-24&theme=react-dark" />
+
+</div>
 
 ---
 
