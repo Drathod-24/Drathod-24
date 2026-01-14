@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Drathod-24.Drathod-24" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+there!+👋;I'm+Meet+Drathod;Software+%26+Data+Enthusiast;Open+to+Internships+%26+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+there!+👋;I'm+Dhruvilsinh+ Rathod;Software+%26+Data+Enthusiast;Open+to+Internships+%26+Opportunities" />
 </h1>
 
 <p align="center">
