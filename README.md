@@ -40,10 +40,4 @@
 | [**AIGriTech — Wine Market Analysis**](https://github.com/Drathod-24/AIGriTech-Project) | Global wine surplus/deficit analysis to guide international expansion | Python, Jupyter |
 | [**Mastermind Game**](https://github.com/Drathod-24/Mastermind_Game) | Terminal code-breaking game with difficulty levels, hints and scoring | Python |
 
-### 📊 GitHub stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Drathod-24&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drathod-24&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 <p align="center"><i>Let's connect — always happy to talk AI, data and business. 🌍</i></p>
